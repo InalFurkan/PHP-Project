@@ -1,0 +1,1 @@
+surname, first name, date of birth, zodiac sign, today's date and time, information about the zodiac sign, how many days you live.
